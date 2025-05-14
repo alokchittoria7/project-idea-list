@@ -55,3 +55,6 @@ A curated list of repositories with tons of project ideas for beginners and inte
 ---
 
 Made with ❤️ to help learners like me stay organized and grow.
+
+> This list contains links to open-source repositories. All credit goes to the respective creators and maintainers.
+
